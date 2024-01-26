@@ -1,7 +1,7 @@
 {
   "name": "project-3",
   "homepage":  "https://vinayambatkar.github.io/DICE_ROLLUP/",
-  "private": "false",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
